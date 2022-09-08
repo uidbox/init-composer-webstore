@@ -1,0 +1,12 @@
+{
+  "name": "webstore/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "keywords": ["webstore", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
